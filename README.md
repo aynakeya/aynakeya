@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, It's Aynakeya Here!
+
+Here are some interesting projects I have developed.
+
+[AynaLivePlayer](https://github.com/AynaLivePlayer/AynaLivePlayer): a fun music player for live streamer
+
+[BiliAudioBot](https://github.com/AynaLivePlayer/BiliAudioBot): python version of AynaLivePlayer.
+
+[flaskweb](https://github.com/aynakeya/flaskweb): A simple blog system
 
 <!--
 **aynakeya/aynakeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
